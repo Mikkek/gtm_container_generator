@@ -1,11 +1,3 @@
-﻿___TERMS_OF_SERVICE___
-
-By creating or modifying this file you agree to Google Tag Manager's Community
-Template Gallery Developer Terms of Service available at
-https://developers.google.com/tag-manager/gallery-tos (or such other URL as
-Google may provide), as modified from time to time.
-
-
 ___INFO___
 
 {
@@ -14,14 +6,14 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Facebook Pixel Hændelse",
-  "categories": [
+    "categories": [
     "ANALYTICS",
     "ADVERTISING",
     "MARKETING"
   ],
   "brand": {
     "id": "brand_dummy",
-    "displayName": "",
+    "displayName": "Custom Template",
     "thumbnail": "data:image/png;base64,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\u003d\u003d"
   },
   "description": "Modified version of this -\u003e https://github.com/facebookarchive/GoogleTagManager-WebTemplate-For-FacebookPixel",
@@ -43,13 +35,15 @@ ___TEMPLATE_PARAMETERS___
     "valueHint": "e.g. 12345678910",
     "valueValidators": [
       {
-        "type": "NON_EMPTY"
+        "type": "NON_EMPTY",
+        "errorMessage": "You must provide a Pixel ID"
       },
       {
         "type": "REGEX",
         "args": [
           "^[0-9,]+$"
-        ]
+        ],
+        "errorMessage": "Invalid Pixel ID format"
       }
     ]
   },
@@ -67,15 +61,115 @@ ___TEMPLATE_PARAMETERS___
     "radioItems": [
       {
         "value": "standard",
-        "displayValue": "Standard"
+        "displayValue": "Standard",
+        "subParams": [
+          {
+            "type": "SELECT",
+            "name": "standardEventName",
+            "macrosInSelect": false,
+            "selectItems": [
+              {
+                "value": "Lead",
+                "displayValue": "Lead"
+              },
+              {
+                "value": "PageView",
+                "displayValue": "PageView"
+              },
+              {
+                "value": "AddPaymentInfo",
+                "displayValue": "AddPaymentInfo"
+              },
+              {
+                "value": "AddToCart",
+                "displayValue": "AddToCart"
+              },
+              {
+                "value": "AddToWishlist",
+                "displayValue": "AddToWishlist"
+              },
+              {
+                "value": "CompleteRegistration",
+                "displayValue": "CompleteRegistration"
+              },
+              {
+                "value": "Contact",
+                "displayValue": "Contact"
+              },
+              {
+                "value": "CustomizeProduct",
+                "displayValue": "CustomizeProduct"
+              },
+              {
+                "value": "Donate",
+                "displayValue": "Donate"
+              },
+              {
+                "value": "FindLocation",
+                "displayValue": "FindLocation"
+              },
+              {
+                "value": "InitiateCheckout",
+                "displayValue": "InitiateCheckout"
+              },
+              {
+                "value": "Purchase",
+                "displayValue": "Purchase"
+              },
+              {
+                "value": "Schedule",
+                "displayValue": "Schedule"
+              },
+              {
+                "value": "Search",
+                "displayValue": "Search"
+              },
+              {
+                "value": "StartTrial",
+                "displayValue": "StartTrial"
+              },
+              {
+                "value": "SubmitApplication",
+                "displayValue": "SubmitApplication"
+              },
+              {
+                "value": "Subscribe",
+                "displayValue": "Subscribe"
+              },
+              {
+                "value": "ViewContent",
+                "displayValue": "ViewContent"
+              }
+            ],
+            "simpleValueType": true,
+            "defaultValue": "Lead"
+          }
+        ]
       },
       {
         "value": "custom",
-        "displayValue": "Custom"
+        "displayValue": "Custom",
+        "subParams": [
+          {
+            "type": "TEXT",
+            "name": "customEventName",
+            "displayName": "",
+            "simpleValueType": true
+          }
+        ]
       },
       {
         "value": "variable",
-        "displayValue": "Variable"
+        "displayValue": "Variable",
+        "subParams": [
+          {
+            "type": "SELECT",
+            "name": "variableEventName",
+            "macrosInSelect": true,
+            "selectItems": [],
+            "simpleValueType": true
+          }
+        ]
       }
     ],
     "simpleValueType": true,
@@ -249,7 +343,8 @@ ___TEMPLATE_PARAMETERS___
                 "value": "zp",
                 "displayValue": "Zip Code"
               }
-            ]
+            ],
+            "isUnique": true
           },
           {
             "defaultValue": "",
@@ -314,7 +409,8 @@ ___TEMPLATE_PARAMETERS___
             "defaultValue": "",
             "displayName": "Property Name",
             "name": "name",
-            "type": "TEXT"
+            "type": "TEXT",
+            "isUnique": true
           },
           {
             "defaultValue": "",
@@ -1274,5 +1370,4 @@ setup: "const mockData = {\n  pixelId: '12345,23456',\n  eventName: 'standard',\
 ___NOTES___
 
 Created on 13.6.2025, 11.36.54
-
 
